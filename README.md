@@ -1,7 +1,7 @@
 
 # 🌍 Climate Change Data Visualization (Streamlit)
 
-### Student Project by Maxwell Nyaga
+### Student Project by Maxwell Nyaga and Phoebe Christine
 Interactive Streamlit dashboard that visualizes global temperature trends using Matplotlib.
 
 ## How to use
